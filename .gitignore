@@ -1,0 +1,11 @@
+# HJH: most of ~/Library/Preferences/Aquamacs Emacs/
+#  consists of configuration files...
+*~                    # no emacs tilde files
+elpa/                 # ignore elpa directory
+Preferences.el        # prefs file
+Recent*               # automagic
+auto-save-list/       # automagic
+customizations.el     # automagic
+frame-positions.el    # automagic
+minibuffer-history.el # automagic
+places.el             # automagic

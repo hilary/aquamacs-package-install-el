@@ -5,11 +5,12 @@
 ;; Author: Hilary J Holz <hilary@hholz.com>
 ;; Maintainer: Hilary J Holz <hilary@hholz.com>
 ;; Keywords: elpa, aquamacs, tramp, org
-;; Homepage: http://design.hholz.com/
+;; Code Repo: http://github.com/hilary/aquamacs-package-install
+;; Homepage: http://design.hholz.com/tools/aquamacs-package-install
 ;; Version: 0.02
 
-;; This file is an adaptation of Tom Tromey's package-install.el for
-;; use with Aquamacs 2.3a. It is intended to serve as a bridge until
+;; This script is based on Tom Tromey's package-install.el, modified
+;; for use with Aquamacs 2.3a. It is intended to serve as a bridge until
 ;; Aquamacs is running emacs 24
 
 ;; It is distributed under the same license as Tom's script and GNU Emacs itself.
